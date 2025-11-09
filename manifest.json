@@ -1,0 +1,9 @@
+{
+  "name": "Compras Mensuales",
+  "short_name": "Compras",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
